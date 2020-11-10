@@ -1,0 +1,19 @@
+
+body{
+    background-color:lightgray;
+}
+.header {
+    background-color: white;
+    color: white;
+    font-size: larger;
+}
+.name {
+    background-color: teal;
+    margin-right: 70%;
+    text-align: center;
+}
+.contact {
+    float: left;
+    background-color: white;
+    color: teal;
+}
