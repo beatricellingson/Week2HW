@@ -2,18 +2,47 @@
 body{
     background-color:lightgray;
 }
-.header {
+.row {
     background-color: white;
     color: white;
-    font-size: larger;
+    
 }
 .name {
     background-color: teal;
-    margin-right: 70%;
     text-align: center;
+    font-size: larger;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
 }
-.contact {
-    float: left;
+
+.info{
     background-color: white;
     color: teal;
+    padding: 20px;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.text {
+    color: black;
+
+}
+.img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-right: 10px;
+}
+.form-group {
+    color: black;
+}
+.footer{
+    background-color: rgb(97, 93, 93);
+    border-top: 10px solid teal;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
