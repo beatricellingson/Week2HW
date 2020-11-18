@@ -1,6 +1,7 @@
 
 body{
     background-color:lightgray;
+    
 }
 .row {
     background-color: white;
@@ -20,7 +21,6 @@ body{
     background-color: white;
     color: teal;
     padding: 20px;
-    width: 500px;
     margin-bottom: 10px;
 }
 
@@ -40,7 +40,6 @@ body{
 .footer{
     background-color: rgb(97, 93, 93);
     border-top: 10px solid teal;
-    width: 100%;
     height: 50px;
     position: fixed;
     left: 0;
